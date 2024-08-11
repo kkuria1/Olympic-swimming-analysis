@@ -19,7 +19,7 @@ Olympic Swimming Performance Analysis (1912-2020)
 9. [Conclusion](#conclusion)
 10. [Future Work](#future-work)
 11. [Acknowledgments](#acknowledgments)
-12. [License](#license)
+
 
 
 ## **Introduction**
