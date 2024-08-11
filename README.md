@@ -28,7 +28,11 @@ Olympic Swimming Performance Analysis (1912-2020)
 
 
 This project aims to perform a comprehensive analysis of swimming performances in the Olympic Games from 1912 to 2020. By analyzing over a century of data, we seek to identify trends, compare performances across different demographics, and understand the impact of technological advancements on the sport.
-Project Objectives
+
+
+
+
+## **Project Objectives**
 
 
 Historical Trend Analysis: Investigate how swimming performances have evolved over the years.
