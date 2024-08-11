@@ -22,6 +22,8 @@ Olympic Swimming Performance Analysis (1912-2020)
 
 
 
+
+
 ## **Introduction**
 
 
@@ -40,6 +42,8 @@ Technological Impact: Assess the influence of technological advancements, such a
 Country Performance Comparison: Examine how different countries have performed historically.
 
 Impact of External Factors: Explore the effects of global events (e.g., World Wars) on Olympic swimming performance.
+
+
 
 
  
@@ -62,6 +66,8 @@ Medal: The medal won (Gold, Silver, Bronze, or None).
 
 Time: The recorded time for the event.
 
+
+
  
 
 ## **Methodology**
@@ -80,6 +86,8 @@ Data Transformation:
 
      
 
+     
+
 ## **Exploratory Data Analysis (EDA)**
 
 
@@ -88,6 +96,8 @@ Descriptive Statistics: Generated summary statistics to understand the distribut
 Correlation Analysis: Examined correlations between various factors such as event type, year, and performance time.
 
 Visualization: Created initial plots to identify trends, outliers, and potential areas for further investigation.
+
+
 
  
 
@@ -104,6 +114,8 @@ Technological Impact Assessment: Applied a before-and-after analysis to measure 
 Country Comparison: Used ranking algorithms and clustering techniques to compare country performances across different eras.
 
 Impact of Historical Events: Correlated performance data with global events to assess their influence on the sport.
+
+
 
  
 
@@ -122,6 +134,8 @@ Technological Advancements: The introduction of advanced swimsuits in the early 
 Country Performance Dynamics: The analysis highlights the dominance of certain countries during specific periods, correlating with their investment in sports infrastructure and training.
 
 Impact of Global Events: Global events such as World Wars had a noticeable impact on Olympic participation and performance, with several years showing a dip in both the number of competitors and the level of performance.
+
+
 
 
 
@@ -145,6 +159,8 @@ This project features a range of visualizations to support the analysis, includi
 	plots/: Directory containing all visualizations generated during the analysis.
 	README.md: Overview of the project, including instructions for replication.
 	requirements.txt: List of required Python packages for running the analysis.
+
+ 
  
 
 ## **How to Run the Project**
@@ -184,10 +200,14 @@ Ensure that you have the following software installed:
 
  
 
+ 
+
 ## **Conclusion**
 
 
 The analysis provides a detailed examination of the evolution of Olympic swimming over more than a century. By identifying trends, comparing performances across demographics, and assessing the impact of technological and global events, this project offers valuable insights into the factors that have shaped modern swimming.
+
+
 
 
 ## **Future Work**
@@ -200,6 +220,8 @@ Advanced Predictive Modeling: Implement machine learning models to predict futur
 Cross-Sport Analysis: Compare swimming trends with other Olympic sports to identify broader athletic trends and patterns.
 
 Interactive Visualizations: Develop an interactive dashboard to allow users to explore the dataset and findings dynamically.
+
+
 
 
 ## **Acknowledgments**
