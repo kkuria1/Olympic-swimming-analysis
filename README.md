@@ -151,8 +151,6 @@ This project features a range of visualizations to support the analysis, includi
 
 	Line Charts: Depicting the trend of performance improvements over time.
 	Histograms: Showing the distribution of performance times across different eras.
-	Box Plots: Comparing male and female performance distributions.
-	Heatmaps: Visualizing country performance over the years.
 	Scatter Plots: Illustrating the relationship between technological advancements and performance improvements.
  
 
